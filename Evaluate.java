@@ -1,5 +1,4 @@
 //This is a class that evaluates the state of a game. It makes use of a dictionary to check and see if the player or computer has won or if it's a draw or if the game is undecided.
-//Student no. 251144211
 //Name of author - Marc Alex Crasto
 public class Evaluate {
 	//size of the board.
