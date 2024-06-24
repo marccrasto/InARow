@@ -1,5 +1,4 @@
 //This is a class that creates a dictionary using a hash table with a hash function to store records. In case if two record receive the same hash key, it stores the records linearly (creates a linked list) in the same hash position in the table.
-//Student no. 251144211
 //Name of author - Marc Alex Crasto
 public class Dictionary implements DictionaryADT {
 	//private int to store the size of the dictionary.
